@@ -4,3 +4,4 @@
 2. [Expanding Cards](https://bhaveshajani177.github.io/expanding-cards/)
 3. [Todo List](https://bhaveshajani177.github.io/todo-list/)
 4. [Expanding Search Bar](https://bhaveshajani177.github.io/Expanding-Search-Bar/)
+5. [Scroll Animation](https://bhaveshajani177.github.io/Scroll-Animation/)
