@@ -5,3 +5,5 @@
 3. [Todo List](https://bhaveshajani177.github.io/todo-list/)
 4. [Expanding Search Bar](https://bhaveshajani177.github.io/Expanding-Search-Bar/)
 5. [Scroll Animation](https://bhaveshajani177.github.io/Scroll-Animation/)
+6. [Labels Generator](https://bhaveshajani177.github.io/Labels-Generator/)
+7. [Fetch Random Quotes](https://bhaveshajani177.github.io/Fetch-Random-Quotes/)
